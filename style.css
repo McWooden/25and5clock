@@ -1,0 +1,12 @@
+body {
+    min-height: 100vh;
+}
+.control {
+    min-width: 280px;
+}
+.control-large {
+    min-width: 300px;
+}
+.buttons {
+    gap: .5em;
+}
